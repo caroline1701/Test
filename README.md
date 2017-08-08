@@ -1,2 +1,2 @@
 # Test
-just a test file
+just a test project
